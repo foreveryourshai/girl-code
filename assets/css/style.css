@@ -45,7 +45,7 @@ body {
   background-color: #ffffff;
   font-family: "Indie Flower", cursive;
   margin: 0;
-  color:#F28599
+  color:#A65179
 }
 
 /*Changes font for heading only*/
@@ -60,7 +60,8 @@ h2,h3,h4,h5,h6{
    
 }
 header.primary {
-  background-color: #A65179;
+  background: #F28599;
+background: radial-gradient(circle, rgba(242, 133, 153, 1) 0%, rgba(242, 206, 216, 1) 100%);;
   text-align: center;
   color: #ffffff;
   padding: 30px;
